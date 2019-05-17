@@ -3,8 +3,9 @@
     xmlns:gap = "http://phonegap.com/ns/1.0"
     id        = "com.phonegap.agenda-ej"
     version   = "1.0.0">
+<plugin name="cordova-plugin-inappbrowser" spec="~3.0.0"/>
 
-<name>Agenda con PhoneGap</name>
+<name>Catalogo De Servicios</name>
 
 <description>
 Ejemplo sencillo de agenda con fotos
